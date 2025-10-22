@@ -7,7 +7,9 @@ fun user() {
 
     text{"Hello User"}
     Text("babi")
-babi
+fun babi() {
+    Text(adnlawkd)
+}
 }
 
 fun text(function: () -> String) {}
