@@ -7,7 +7,7 @@ fun user() {
 
     text{"Hello User"}
     Text("babi")
-
+babi
 }
 
 fun text(function: () -> String) {}
