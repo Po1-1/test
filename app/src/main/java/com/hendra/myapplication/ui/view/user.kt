@@ -9,6 +9,7 @@ fun user() {
     Text("babi")
 fun babi() {
     Text(adnlawkd)
+    daw
 }
 }
 
